@@ -1,0 +1,1 @@
+SELECT id, title, image_url FROM news;
