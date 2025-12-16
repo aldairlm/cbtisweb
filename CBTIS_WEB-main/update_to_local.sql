@@ -1,1 +1,0 @@
-UPDATE news SET image_url='img/feria_universidad.jpg' WHERE title='Feria de Universidades 2025';
